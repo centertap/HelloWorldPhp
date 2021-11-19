@@ -1,0 +1,7 @@
+{
+    "name": "centertap/hello-world-php",
+    "description": "Hello, World of PHP",
+    "require": {
+        "php": ">=7.4",
+    }
+}
