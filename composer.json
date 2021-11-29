@@ -1,6 +1,33 @@
 {
     "name": "centertap/hello-world-php",
     "description": "Hello, World of PHP",
+    "keywords": [
+      "hello",
+      "world",
+      "php"
+    ],
+    "homepage": "https://helloworld.org/php",
+    "readme": "README.md",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Rafael Pono",
+        "email": "rifraf@pono.org",
+        "role": "Developer"
+      },
+      {
+        "name": "Plaza of the Hello",
+        "email": "support@helloplaza.org",
+        "homepage": "https://www.helloplaza.org",
+        "role": "Maintainer"
+      }
+    ],
+    "funding": [
+      {
+        "type": "other",
+        "url": "https://www.helloplaza.org/fund"
+      }
+    ],
     "require": {
         "php": ">=7.4"
     }
